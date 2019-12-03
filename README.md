@@ -7,7 +7,7 @@ started with the mentorship programme. A few points of administration:
 
 2. We assume you some prior knowledge of programming.
 
-3. For an help with the course, you can either contact your mentor. A better option
+3. For an help with the course, you can privately contact your mentor. A better option
 would be to [open an issue on this repository](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue),
 so that others can see your
 question, and it'll prevent any replicated effort on the part of the mentor.
@@ -16,7 +16,7 @@ All discussions related to code will happen over issues.
 4. All your code will be pushed to GitHub, so if you haven't already, create
 a GitHub account. Create a **private** repository with the name:
 `rl-winter-mentorship` and add **only your mentor** as a collaborator. The
-mentors GitHub ids are: `@squadrick` (Dheeraj), `@sahas00` (Sahas).
+mentors GitHub IDs are: `@squadrick` (Dheeraj), `@sahas00` (Sahas).
 
 5. Create a `README.md` in your repository where you can keep track of your
 progress over the next month. The mentors will be using the `README.md` as
