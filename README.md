@@ -52,8 +52,8 @@ Arpith or Akshatha.
   4. Tools:
 
       a. Text Editor: You can use any editor of choice. Recommendations: VSCode,
-      Atom, Vim, Emacs. You can also use an IDE if you wish, PyCharm is free for
-      students.
+      Atom, Vim, Emacs. You can also use an IDE if you wish, PyCharm is [free for
+      students.](https://www.jetbrains.com/student/)
 
       b. `git`: You'll be using GitHub for all your code/assignment submission,
       so learn the basics of `git`: `pull`, `push`, `add`, `commit`.
@@ -92,7 +92,7 @@ source implementations of the algorithm (where appropriate).
 
 3. Lectures: We'll link free online YouTube lectures.
 
-4. Text Book: We'll link to chapters from this book -
+4. TextBook: We'll link to chapters from this book -
 [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (SnB).
 
 The recommendation would be to either use Lectures or Text Books to get a
@@ -179,4 +179,16 @@ The format for submissions will be announced later.
 
 #### Week 5
 
-Intro to Deep RL: TBD
+Intro to Deep RL. The leap from the previous to this will be quite substantial. 
+The exact specifics of this week is open-ended, it's entirely up to the mentee
+to decide what they want to pursue. A few potential options are:
+
+  1. Reimplementing a seminal research paper like [DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), 
+  [PPO](https://arxiv.org/abs/1707.06347), etc.
+  
+  2. Using [an existing library](https://github.com/openai/baselines) on new 
+  unexplored environments like your favourite FPS game, or in more unconvential 
+  problems like [solving symbolic integration](https://en.wikipedia.org/wiki/Symbolic_integration). 
+  
+You'll discuss with your mentor based on your progress to figure out what'll work 
+best for you based on your learning and goals. 
