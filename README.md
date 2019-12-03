@@ -179,7 +179,7 @@ The format for submissions will be announced later.
 
 #### Week 5
 
-Intro to Deep RL. The leap from the previous to this will be quite substantial. 
+Intro to Deep RL. The leap from the previous week to this will be quite substantial. 
 The exact specifics of this week is open-ended, it's entirely up to the mentee
 to decide what they want to pursue. A few potential options are:
 
@@ -191,4 +191,4 @@ to decide what they want to pursue. A few potential options are:
   problems like [solving symbolic integration](https://en.wikipedia.org/wiki/Symbolic_integration). 
   
 You'll discuss with your mentor based on your progress to figure out what'll work 
-best for you based on your learning and goals. 
+best, focusing on your area of interest. 
