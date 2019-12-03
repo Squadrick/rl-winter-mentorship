@@ -31,7 +31,7 @@ Arpith or Akshatha.
 ## Prerequisites
 
   1. OS: Either some Linux based OS (Ubuntu, Fedora, etc.) OR Mac OSX. Windows
-  will not suffice.
+  will not suffice. [Tutorial for installing Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop).
 
   2. Language: We'll be using Python3 throughout this course. So familiarise
   yourself with the language. Also learn to install packages using `pip`.
@@ -57,6 +57,9 @@ Arpith or Akshatha.
 
       b. `git`: You'll be using GitHub for all your code/assignment submission,
       so learn the basics of `git`: `pull`, `push`, `add`, `commit`.
+      
+      c. [Google Colab](https://colab.research.google.com/): Free access to a 
+      powerful GPUs for training your agents. This will be handy for week 4 and 5.
 
 
 ## Scope
