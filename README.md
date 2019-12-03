@@ -13,7 +13,7 @@ so that others can see your
 question, and it'll prevent any replicated effort on the part of the mentor.
 All discussions related to code will happen over issues.
 
-4. All your code with be pushed to GitHub, so if you haven't already, create
+4. All your code will be pushed to GitHub, so if you haven't already, create
 a GitHub account. Create a **private** repository with the name:
 `rl-winter-mentorship` and add **only your mentor** as a collaborator. The
 mentors GitHub ids are: `@squadrick` (Dheeraj), `@sahas00` (Sahas).
@@ -52,7 +52,7 @@ Arpith or Akshatha.
   4. Tools:
 
       a. Text Editor: You can use any editor of choice. Recommendations: VSCode,
-      Atom, Vim, Emacs. You can also use an IDE if you wish. PyCharm is free for
+      Atom, Vim, Emacs. You can also use an IDE if you wish, PyCharm is free for
       students.
 
       b. `git`: You'll be using GitHub for all your code/assignment submission,
@@ -73,24 +73,24 @@ help you along the way when you decide to learn more advanced concepts.
 scratch to solve famous RL problems (CartPole, Mountain Car).
 
 4. Imitation learning: You'll be competiting against your peers to see who
-can perform the best in trying to imitate an exert to control a car.
+can perform the best in trying to imitate an expert to control a robot.
 
 5. Intro to Deep RL: Brief introduction to using deep learning with RL to create
 powerful general purpose solvers.
 
 ## Resources
 
-Since every one prefers a different approach to learn, we're gonna try our
+Since every one prefers a different approach to learning, we're gonna try our
 best to accomodate each style. Every topic has multiple levels of resources:
 
 1. Intuitive: This will be a high level, *hand-wavy* explanation of the concepts.
 This will not help you understand the core of the concept, but you will have a
 general understanding.
 
-2. Code: If you prefer to help by looking at the codebase, we'll link open
-source implementation where appropriate.
+2. Code: If you prefer to learn by looking at the codebase, we'll link open
+source implementations of the algorithm (where appropriate).
 
-3. Lectures: We'll link to free online YouTube lectures.
+3. Lectures: We'll link free online YouTube lectures.
 
 4. Text Book: We'll link to chapters from this book -
 [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (SnB).
@@ -108,7 +108,7 @@ happen via GitHub.
 #### Week 0
 
 Before the start of the course, we except you to have completed all the administration
-work and Prerequisites. Also, some *pop-sciency* knowledge never hurt anyone:
+work and prerequisites. Also, some *pop-sciency* knowledge never hurt anyone:
 
   1. [TextBook] Chaper 1 from SnB: The Reinforcement Learning Problem
 
@@ -149,7 +149,7 @@ Tabular methods
 Deliverables:
 
 1. Solve all environments from [`gym-gridworlds`](https://github.com/podondra/gym-gridworlds)
-using value and policy iteration using only NumPy.
+using value and policy iteration using **only** NumPy.
 
 #### Week 3
 
