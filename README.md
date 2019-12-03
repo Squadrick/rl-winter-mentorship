@@ -38,25 +38,25 @@ Arpith or Akansha.
 
   3. Libraries:
 
-    a. [NumPy](https://numpy.org/): Used for matrix computations.
+      a. [NumPy](https://numpy.org/): Used for matrix computations.
 
-    b. [OpenAI Gym](https://gym.openai.com/): Has a host of training
-    environments with an easy-to-use API.
+      b. [OpenAI Gym](https://gym.openai.com/): Has a host of training
+      environments with an easy-to-use API.
 
-    c. [TensorFlow](https://www.tensorflow.org/) OR
-    [PyTorch](https://pytorch.org/): Deep learning libraries that we'll use
-    later on (week 4, 5) in the course to train neural networks. The choice is
-    left entirely up to the mentee, but you can contact your mentor to narrow
-    down the choice.
+      c. [TensorFlow](https://www.tensorflow.org/) OR
+      [PyTorch](https://pytorch.org/): Deep learning libraries that we'll use
+      later on (week 4, 5) in the course to train neural networks. The choice is
+      left entirely up to the mentee, but you can contact your mentor to narrow
+      down the choice.
 
   4. Tools:
 
-    a. Text Editor: You can use any editor of choice. Recommendations: VSCode,
-    Atom, Vim, Emacs. You can also use an IDE if you wish. PyCharm is free for
-    students.
+      a. Text Editor: You can use any editor of choice. Recommendations: VSCode,
+      Atom, Vim, Emacs. You can also use an IDE if you wish. PyCharm is free for
+      students.
 
-    b. `git`: You'll be using GitHub for all your code/assignment submission,
-    so learn the basics of `git`: `pull`, `push`, `add`, `commit`.
+      b. `git`: You'll be using GitHub for all your code/assignment submission,
+      so learn the basics of `git`: `pull`, `push`, `add`, `commit`.
 
 
 ## Scope
