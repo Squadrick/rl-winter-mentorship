@@ -56,7 +56,8 @@ Arpith or Akshatha.
       students.](https://www.jetbrains.com/student/)
 
       b. `git`: You'll be using GitHub for all your code/assignment submission,
-      so learn the basics of `git`: `pull`, `push`, `add`, `commit`.
+      so learn the basics of `git`: `pull`, `push`, `add`, `commit`. 
+      [Here's](https://www.atlassian.com/git/tutorials) an excellent tutorial for `git`.
       
       c. [Google Colab](https://colab.research.google.com/): Free access to a 
       powerful GPUs for training your agents. This will be handy for week 4 and 5.
