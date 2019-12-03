@@ -172,10 +172,10 @@ Build a single layer neural network using **only** NumPy to solve `CartPole` usi
 
 Competition Week
 
-We'll give you some data for an expert controlling a robot. Your task to create
+We'll give you some data from an expert controlling a robot. Your task to create
 the best agent either using the expert data or not. Throughout the week, we'll
 maintain a leaderboard of scores, and each mentee can have multiple submissions.
-The format for submissions will be announced later.
+The format for submissions will be announced later. (#TODO)
 
 #### Week 5
 
