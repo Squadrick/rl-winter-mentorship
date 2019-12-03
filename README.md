@@ -26,7 +26,7 @@ Don't be afraid to ask any questions (however irrelevant you think it may be).
 The mentors are here to help you every step of the way.
 
 For any issues with the GirlScript Winter Mentorship Programme please contact
-Arpith or Akansha.
+Arpith or Akshatha.
 
 ## Prerequisites
 
